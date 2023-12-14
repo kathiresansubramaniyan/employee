@@ -1,0 +1,20 @@
+body {
+  padding-top: 50px;
+}
+.mb {
+  margin-bottom: 10px;
+}
+.mt {
+  margin-top: 10px;
+}
+.d-flex {
+  display: flex;
+}
+.mx { margin: 20px 5px;}
+/* .starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.starter-template form{
+  text-align: left;
+} */
